@@ -1,0 +1,56 @@
+SUPPLY CHAIN BUSINESS FINDINGS
+
+
+
+1. Order performance
+•	Total orders analyzed: 1,500.
+•	Delivered orders: 1,236 (82.4%).
+•	In Transit: 123 orders.
+•	Delayed orders: 88.
+•	Cancelled orders: 53.
+
+2. Product category performance
+•	Furniture generated the highest total profit: 3,041,930.54.
+•	Electronics ranked second with 2,655,688.59.
+•	FMCG had the highest order count at 328 but the lowest total profit at 226,689.03.
+
+3. Product performance
+•	Bookshelf generated the highest total product profit: 759,658.05.
+•	Storage Cabinet ranked second in total profit at 743,897.29.
+•	Storage Cabinet had the highest average profit per order at 11,271.17.
+
+4. Regional performance
+•	Asia generated the highest total profit: 1,634,210.14.
+•	North America had the highest order count at 330.
+•	Asia had the highest delayed-order percentage at 6.98%.
+•	Africa had the lowest delayed-order percentage at 4.53%.
+
+5. Transportation performance
+•	Rail generated the highest total profit at 1,966,012.59.
+•	Rail also had the highest average profit per order at 5,242.70.
+•	Air had the highest average shipping cost at 42.62.
+•	Sea had the lowest average shipping cost at 11.91.
+
+6. Monthly trends
+•	September 2024 had the highest monthly order count at 79.
+•	April 2024 had the highest monthly total profit at 418,187.13.
+•	October 2025 had the highest delayed-order percentage at 9.38%.
+•	October 2024 had the lowest delayed-order percentage at 1.69%.
+
+7. Profitability
+•	Total profit across all orders: 7,257,202.89.
+•	Average profit per order: 4,838.14.
+•	There were 57 orders with negative profit.
+•	Cancelled orders accounted for 53 of these loss-making orders, with a combined profit of -7,771.04.
+
+8. Business recommendations
+•	Review FMCG pricing, costs, and product mix to understand its low profit.
+•	Investigate the causes of higher delayed-order percentages in Asia and during October 2025.
+•	Review cancelled orders to understand the losses associated with them.
+•	Compare transportation costs alongside delivery requirements before selecting a transport mode.
+•	Monitor monthly profit and delayed-order percentages to identify changes in performance.
+
+Note:
+These findings describe the sample dataset. 
+Higher profit does not necessarily mean higher profit margin, and the dataset does not include promised delivery dates for measuring contractual on-time delivery.
+

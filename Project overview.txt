@@ -1,0 +1,35 @@
+SUPPLY CHAIN DATA ANALYSIS
+
+
+
+Project overview:
+
+This project analyzes supply chain order data using PostgreSQL. The purpose is to understand order performance, product profitability, transportation costs, regional performance, and delivery delays.
+
+Tools used:
+• PostgreSQL
+• pgAdmin
+• SQL
+
+Dataset details:
+• Total orders: 1,500
+• Unique customers: 1,380
+• Unique products: 25
+• Data period: January 2024 to December 2025
+
+Project objectives:
+• Validate data quality and consistency.
+• Analyze order status and delivery performance.
+• Identify products and categories contributing the most profit.
+• Compare profit across customer regions and transportation modes.
+• Analyze monthly order and profit trends.
+• Identify loss-making orders and delayed-order patterns.
+
+Files included:
+• Data_validation.sql — checks data quality and consistency.
+• 02_Exploratory_Data_Analysis.sql — contains queries for business analysis.
+
+Note:
+This project uses a sample supply chain dataset for learning and portfolio purposes. 
+The results describe the available dataset and should not be treated as verified performance data from a real company.
+
