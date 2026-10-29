@@ -40,3 +40,30 @@ This is a sample dataset for learning and portfolio purposes, not verified compa
 
 ## Skills Demonstrated
 SQL querying, data validation, aggregation, grouping, filtering, Common Table Expressions (CTEs), profitability analysis, and business interpretation.
+
+
+## SQL Analysis Screenshots
+
+### 1. Overall Project Summary
+![Overall Project Summary](04_Screenshots/01_Overall_Project_Summary.png)
+
+### 2. Order Status Analysis
+![Order Status Analysis](04_Screenshots/02_Order_Status_Analysis.png)
+
+### 3. Profit by Product Category
+![Profit by Product Category](04_Screenshots/03_Profit_by_Category.png)
+
+### 4. Profit by Region
+![Profit by Region](04_Screenshots/04_Profit_by_Region.png)
+
+### 5. Monthly Profit Analysis
+![Monthly Profit Analysis](04_Screenshots/05_Monthly_Profit_Analysis.png)
+
+### 6. Delayed Orders by Region
+![Delayed Orders by Region](04_Screenshots/06_Delayed_Orders_by_Region.png)
+
+### 7. Loss-Making Orders
+![Loss-Making Orders](04_Screenshots/07_Loss_Making_Orders.png)
+
+### 8. Top 10 Products by Profit
+![Top 10 Products by Profit](04_Screenshots/08_Top_10_Products_by_Profit.png)
