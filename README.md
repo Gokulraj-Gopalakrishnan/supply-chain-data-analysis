@@ -1,9 +1,8 @@
 # supply-chain-data-analysis
 Supply chain data analysis using PostgreSQL and SQL.
-
-Supply Chain Data Analysis
+Supply Chain Data Analysis Using PostgreSQL
 Project Overview
-This project uses PostgreSQL to analyze supply chain order data and identify patterns in order performance, product profitability, transportation costs, regional performance, and delivery delays.
+This project uses PostgreSQL and SQL to analyze 1,500 supply chain orders from January 2024 to December 2025. It explores order performance, product profitability, transportation costs, regional performance, and delivery delays to identify useful business insights.
 Tools Used
 •	PostgreSQL
 •	pgAdmin
@@ -12,32 +11,28 @@ Dataset
 •	1,500 orders
 •	1,380 unique customers
 •	25 unique products
-•	Period: January 2024 to December 2025
-Project Objectives
-•	Validate data quality and consistency.
-•	Analyze order status and delivery performance.
-•	Identify profitable products and categories.
-•	Compare performance across regions and transportation modes.
-•	Analyze monthly order and profit trends.
-•	Identify loss-making orders and delayed-order patterns.
+•	Analysis period: January 2024 – December 2025
 Key Findings
-•	Total profit: 7,257,202.89.
-•	Furniture generated the highest category profit: 3,041,930.54.
-•	Bookshelf had the highest total product profit: 759,658.05.
-•	Rail had the highest total profit among transportation modes: 1,966,012.59.
-•	There were 57 orders with negative profit.
-•	October 2025 had the highest monthly delayed-order percentage: 9.38%.
-Project Structure
-•	01_SQL_Scripts/ — SQL scripts for validation and exploratory analysis.
-•	Documentation/ — project overview and business findings.
-•	README.md — project introduction and key results.
+•	Total profit: 7,257,202.89
+•	Top product category by profit: Furniture — 3,041,930.54
+•	Top product by total profit: Bookshelf — 759,658.05
+•	Top transportation mode by total profit: Rail — 1,966,012.59
+•	Loss-making orders: 57
+•	Highest monthly delayed-order percentage: October 2025 — 9.38%
 Business Recommendations
-•	Review low-profit product categories.
+•	Review low-profit product categories and loss-making orders.
 •	Investigate regions and months with higher delayed-order percentages.
-•	Review cancelled orders with negative profit.
-•	Compare transportation costs with service requirements.
+•	Compare transportation costs with delivery requirements.
+•	Monitor product and regional profitability to support better decisions.
+Project Structure
+•	01_SQL_Scripts/ — Data validation and exploratory SQL analysis.
+•	Documentation/ — Project overview and business findings.
+•	04_Screenshots/ — SQL queries and result screenshots.
+•	README.md — Project summary and key findings.
 Limitations
 This is a sample dataset used for learning and portfolio purposes. The currency is unspecified, supplier identifiers and names are inconsistent, and promised delivery dates are unavailable. Therefore, the analysis cannot establish contractual on-time delivery performance or verified real-company results.
+
+
 
 SQL Analysis Screenshots
 The following screenshots show the SQL queries and their results from the project.
